@@ -1,9 +1,10 @@
+```bash
 # Spring Boot Demo – HelloController
 
 Detta är ett enkelt Spring Boot-projekt containeriserat med Docker och Docker Compose.
 Projektet innehåller en REST-endpoint som returnerar en hälsning.
 
-## ✅ Funktionalitet
+✅ Funktionalitet
 
 Projektet har en enkel REST-endpoint:
 GET /hello
@@ -11,9 +12,6 @@ GET /hello
 Den returnerar följande svar i webbläsaren eller via API-anrop:
 "Hej från Spring Boot!"
 
-
----
-```bash
 🚀 Installation & körning
 
 1️⃣ Kloning av repository
