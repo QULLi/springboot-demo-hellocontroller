@@ -13,11 +13,12 @@ Den returnerar följande svar i webbläsaren eller via API-anrop:
 
 
 ---
-
+```bash
 🚀 Installation & körning
 
 1️⃣ Kloning av repository
 För att komma igång, klona projektet från GitHub:
+
 git clone https://github.com/QULLi/springboot-demo-hellocontroller.git
 cd springboot-demo-hellocontroller
 
