@@ -18,7 +18,6 @@ Den returnerar följande svar i webbläsaren eller via API-anrop:
 
 1️⃣ Kloning av repository
 För att komma igång, klona projektet från GitHub:
-```bash
 git clone https://github.com/QULLi/springboot-demo-hellocontroller.git
 cd springboot-demo-hellocontroller
 
